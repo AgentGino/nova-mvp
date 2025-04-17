@@ -1,0 +1,6 @@
+aws-sdk-bedrock-runtime
+smithy-aws-core
+pyaudio
+rx
+python-dotenv
+boto3
