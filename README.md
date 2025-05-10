@@ -71,6 +71,8 @@ Enter your AWS Access Key ID, Secret Access Key, default region (e.g., `us-east-
     *   `BEDROCK_REGION`: The AWS region where you have Bedrock model access and want to run the inference (e.g., `us-east-1`).
     *   `BEDROCK_SYSTEM_PROMPT`: Customize the initial instruction given to the AI model.
     *   `BEDROCK_VOICE_ID`: Choose the desired voice for the AI's responses (e.g., `matthew`, `amy`, `tiffany` - refer to Bedrock documentation for available voices).
+    *   `AWS_ACCESS_KEY_ID`: Access key are required for Bedrock service 
+    *   `AWS_SECRET_ACCESS_KEY`: Secret key are required for Bedrock service
 
 ## Running the Application
 
